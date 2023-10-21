@@ -9,4 +9,4 @@ The main goal of this project is to practice the basic principles of microservic
 - Docker for RabbitMQ and PostgresSQL
 - Maven
 
-You need to specify the EMAIL_USERNAME and EMAIL_PASSWORD in enviroment of `email` microservice before running.
+You need to specify the EMAIL_SMTP, EMAIL_USERNAME and EMAIL_PASSWORD in enviroment of `email` microservice before running.
